@@ -26,3 +26,10 @@ h1, h2, h3, h4, h5, h6 {
 .btn:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
+.muted-link {
+  color: #77778d;
+}
+.muted-link:hover {
+  color: #3d3d5d;
+}
