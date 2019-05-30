@@ -33,3 +33,11 @@ h1, h2, h3, h4, h5, h6 {
 .muted-link:hover {
   color: #3d3d5d;
 }
+
+.big-text {
+  font-size: 5rem;
+  font-weight: 500;
+}
+.center-text {
+  text-align: center;
+}
