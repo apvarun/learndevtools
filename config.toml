@@ -1,0 +1,11 @@
+baseURL = "https://learndevtools.now.sh/"
+languageCode = "en-us"
+title = "DevTools Guide"
+theme = "book"
+googleAnalytics = "UA-118017469-13"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
