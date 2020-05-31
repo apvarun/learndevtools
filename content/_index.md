@@ -3,7 +3,7 @@ title: DevTools Guide
 type: docs
 ---
 
-# DevTools Guide - Chrome
+# DevTools Guide
 
 
 ## What
@@ -12,7 +12,7 @@ This guide is a collection of walk-throughs for learning to use developer tools 
 
 ## Why
 
-Dat-to-day, I come across a lot of developers who need help in solving issues on the web. And most of the time, I end up using some of the dev tools functionality to debug and solve the problem. This made me realize that there are actually people out there who could get help in learning to use dev tools and hence this website.
+Day-to-day, I come across a lot of developers who need help in solving issues on the web. And most of the time, I end up using some of the dev tools functionality to debug and solve the problem. This made me realize that there are actually people out there who could get help in learning to use dev tools and hence this website.
 
 ## How to use
 

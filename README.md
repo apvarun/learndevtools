@@ -1,16 +1,15 @@
-# Chrome DevTools Guide
+# Learn Dev Tools
 
-Consists of files to learn the usage of various functions in Chrome DevTools
+Collection of walk-throughs for learning to use developer tools in the browser. Read more [here](https://learndevtools.now.sh/#why)
 
 ## Getting Started
 
-Clone the repo to your local machine and open the appropriate file in browser.
+Visit https://learndevtools.now.sh/ to learn and try out various features of devtools to help you be more productive at work.
 
-```
-git clone https://github.com/apvarun/ChromeDevToolsGuide.git
-```
+## Contributing
 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[MIT](LICENSE.md)

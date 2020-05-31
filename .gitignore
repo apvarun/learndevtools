@@ -14,16 +14,11 @@ vendor/*/
 *.bench
 *.debug
 coverage*.out
-
 dock.sh
-
 GoBuilds
 dist
-
 hugolib/hugo_stats.json
-resources/sunset.jpg
-
+resources
 vendor
-
 _gen
 public

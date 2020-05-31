@@ -1,6 +1,6 @@
 baseURL = "https://learndevtools.now.sh/"
 languageCode = "en-us"
-title = "DevTools Guide"
+title = "Learn DevTools"
 theme = "book"
 googleAnalytics = "UA-118017469-13"
 
