@@ -1,10 +1,8 @@
 ---
-title: DevTools Guide
+title: Guide for learning DevTools features
 type: docs
+description: Learn Dev Tools is a collection of walk-throughs for learning to use developer tools in the browser.
 ---
-
-# DevTools Guide
-
 
 ## What
 

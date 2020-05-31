@@ -73,6 +73,9 @@
 
 {{ define "main" }}
   <article class="markdown">
+    {{ if .Title }}
+      <h1>{{ .Title }}</h1>
+    {{ end }}
     {{- .Content -}}
   </article>
 {{ end }}
