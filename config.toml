@@ -9,3 +9,7 @@ googleAnalytics = "UA-118017469-13"
     [markup.goldmark.renderer]
       unsafe = true
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5

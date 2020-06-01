@@ -1,5 +1,11 @@
 .markdown a.book-btn {
   user-select: none;
+  transition: 150ms ease-in;
+  transition-property: color, background-color;
+}
+.markdown a.book-btn:hover {
+  color: #fff;
+  background-color: #05b;
 }
 .hide {
   display: none;

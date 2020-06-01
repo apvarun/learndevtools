@@ -7,12 +7,13 @@
 <meta property="og:description" content="{{ default .Summary .Description }}">
 {{ $defaultImagePreview := print .Site.BaseURL "cover.png" }}
 <meta property="og:image" content="{{ default $defaultImagePreview .Params.Cover }}">
+<meta name="twitter:image" content="{{ default $defaultImagePreview .Params.Cover }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@apvarun">
 
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta name="twitter:image:alt" content="{{ .Site.Title }}">
-
 
 {{- template "_internal/opengraph.html" . -}}
 
