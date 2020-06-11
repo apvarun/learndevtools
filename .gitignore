@@ -22,3 +22,5 @@ resources
 vendor
 _gen
 public
+
+.vercel
