@@ -25,7 +25,7 @@ Once the file is saved, reload the page so that chrome can use the overridden fi
 
 <div class="container-demo"></div>
 
-<script src="/resources/sources/3-content-overrides.js"></script>
+<script src="/assets/sources/3-content-overrides.js"></script>
 
 ## Preview
 

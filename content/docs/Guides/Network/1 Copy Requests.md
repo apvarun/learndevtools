@@ -17,4 +17,4 @@ Fetch API code for triggering the same request will be copied to your clipboard.
 
 {{< button class="trigger-api" >}}Trigger an API call{{< /button >}}
 
-<script src="/resources/network/1-copy-requests.js"></script>
+<script src="/assets/network/1-copy-requests.js"></script>

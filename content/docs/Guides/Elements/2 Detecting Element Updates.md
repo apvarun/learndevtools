@@ -30,7 +30,7 @@ Once the breakpoint is hit, you will get to see all the contextual information a
 <!-- This is the container.  -->
 <div class="container-demo"></div>
 
-<script src="/resources/elements/2-detecting-element-updates.js"></script>
+<script src="/assets/elements/2-detecting-element-updates.js"></script>
 
 ## Preview
 

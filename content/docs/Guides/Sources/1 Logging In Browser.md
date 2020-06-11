@@ -16,7 +16,7 @@ Chrome provides you an option to add logging statements without the actual `cons
 
 <div id="container" class="big-text center-text"></div>
 
-<script src="/resources/sources/1-logging.js"></script>
+<script src="/assets/sources/1-logging.js"></script>
 
 ## Preview
 

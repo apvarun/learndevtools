@@ -22,7 +22,7 @@ The condition can include any variable in code that is available at that particu
 {{< /hint >}}
 </div>
 
-<script src="/resources/sources/2-conditional-breakpoint.js"></script>
+<script src="/assets/sources/2-conditional-breakpoint.js"></script>
 
 ## Preview
 

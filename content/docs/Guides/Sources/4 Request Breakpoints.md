@@ -24,4 +24,4 @@ PS: URLs doesn't need to be of full length. A part of the URL will also be match
 
 <div class="container-demo"></div>
 
-<script src="/resources/sources/4-request-breakpoints.js"></script>
+<script src="/assets/sources/4-request-breakpoints.js"></script>

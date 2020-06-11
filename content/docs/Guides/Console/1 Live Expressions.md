@@ -16,4 +16,4 @@ Use the buttons below to trigger changes and watch the live expression updates
 {{< button class="change" >}}Trigger Change{{< /button >}}
 {{< button class="stopChange" >}}Stop Changes{{< /button >}}
 
-<script src="/resources/console/1-live-expressions.js"></script>
+<script src="/assets/console/1-live-expressions.js"></script>
