@@ -17,10 +17,12 @@ Chrome will start recording the screenshots at some intervals from starting of p
 > **Focus on the loading of the images below**
 
 {{< columns >}}
+Smaller-sized image - loads faster
 
 ![](https://picsum.photos/250/150)
 
 <--->
+Large image - slow load
 
 ![](https://picsum.photos/2000/1200)
 
